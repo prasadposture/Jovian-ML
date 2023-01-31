@@ -1,5 +1,5 @@
 # Jovian-ML-Course
-I have created this repository for classwork, assignments and projects I undertook for `Machine Learning : from Zero to BGM` offered by Jovian.
+I have created this repository for classwork, assignments and project I undertook for `Machine Learning : from Zero to BGM` offered by Jovian.
 <br>
 
 1. [Classwork](https://github.com/prasadposture/Jovian-ML-Course/tree/main/Assignments)<br>
